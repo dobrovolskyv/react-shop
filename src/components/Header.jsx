@@ -7,7 +7,7 @@ const Header = () => {
                 <div className="nav-wrapper">
                     <a href="#!" className="brand-logo">React Store</a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
-                        <li><a href="#!">Practic e-commerce</a></li>
+                        <li><a href="https://github.com/dobrovolskyv/react-shop" target="_blank" rel="noreferrer">repositories</a></li>
 
                     </ul>
                 </div>
